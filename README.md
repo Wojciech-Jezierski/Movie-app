@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Movie app
 
 Application with which you can search for a movie by its title, thanks to the API from omdbapi.com. There are many movies from different categories in the database.
 
